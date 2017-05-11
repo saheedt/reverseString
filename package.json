@@ -1,0 +1,28 @@
+{
+  "name": "reversestring",
+  "version": "1.0.0",
+  "description": "reverse strings and return true for palindromes",
+  "main": "app/reverse.js",
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saheedt/reverseString.git"
+  },
+  "keywords": [
+    "reverse",
+    "words",
+    "and",
+    "palindromes"
+  ],
+  "author": "saheed ajibulu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saheedt/reverseString/issues"
+  },
+  "homepage": "https://github.com/saheedt/reverseString#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
